@@ -1,62 +1,121 @@
 Hej Christian !       ---      cc@svepro.rs
 
-Först och främst ber jag om ursäkt för mina dåliga svenska och grammatiska misstag.
+Först och främst ber jag om ursäkt för min dåliga svenska och mina grammatiska misstag.
 Sedan 2017 har jag inte haft kommunikation på svenska. Fem år är en lång period.
-Jag glömde mycket, men jag tror att jag kan snabbt få tillbaka mycket kunskap.
-Förlåt mig. Jag är sen med svaret. Det tog mig lång tid att sammanställa denna presentation 
+Jag glömde mycket, men jag tror att jag snabbt kan få tillbaka mycket kunskap.
+Förlåt mig. Jag är sen med svaret. Det tog mig en lång tid att sammanställa denna presentation 
 med åtföljande åtaganden. Presentationssidan jag skickade till dig är tillfällig, 
-så laddning kan ta tid, särskilt för större filer.
+så uppladdningen kan ta tid, särskilt för större filer.
 
-För några dagar sedan pratade jag med Ivan om ditt erbjudande.
-Ivan nämnde bara lönen / (1000 euro) och grundläggande saker om arbetsförhållanden,
+https://pyace1.github.io/Alex_webbutvecklare/
+
+För ett par dagar sedan pratade jag med Ivan om ditt erbjudande.
+Ivan nämnde bara lönen / (1000 euro) och grundläggande information om arbetsförhållanden,
 Så den här gången skulle jag vilja prata om detaljerna.
 
-Ivan nämnde ingenting om svenska papper och arbetstillstånd.
-Han tror att vi skulle inte vara väl anslutna.
-Jag försökte förklara för honom att det var din största fördel.
-Ditt löneerbjudande är mycket låg, men du har möjlighet att tillverka arbetstillstånd i Sverige.
-Jag förklarade för honom att jag för närvarande har mycket bättre erbjudanden i Asien.
-Erbjudandet som erbjöds mig var (16000rmb) 2000e, plus en lägenhet (2500rmb) 300e, 
+Ivan nämnde ingenting om svenska papper och arbetstillstånd. Han anser även att detta
+alternativ inte passar honom, eftersom han tycker att vi inte skulle vara så mycket
+sammankopplade på affärsnivå, fastän jag försökte förklara för honom att det är din största
+ fördel just nu.
+Ditt löneerbjudande är mycket låg, men du har möjlighet att ordna arbetstillståndspapper i 
+Sverige.
+Jag förklarade för honom att jag för närvarande har mycket bättre erbjudanden i Asien 
+(16000rmb) 2000euro, plus en lägenhet (2500rmb) 300euro, 
 plus bonusar på en väns skola i Kina.
-Om jag accepterar det erbjudandet, måste jag öppna ett annat företag 
-som kommer att göra mina papper / arbetstillstånd i ett annat land, 
+Om jag accepterar det erbjudandet, måste jag också starta ett annat företag 
+som kommer att möjliggöra att fixa mina papper / arbetstillstånd i ett annat land, 
 Malaysia eller Singapore. En utlänning kan köpa fastigheter i Malaysia och Singapore.
-Fastlands Kina ger inte pass till utlänningar, endast Taiwan, Hongkong och Macao, 
+Fastlands kina ger inte ut pass till utlänningar, endast Taiwan, Hongkong och Macao gör det, 
 men de är alla politiskt instabila zoner.
-Det är en ytterligare komplikation...arbeta i ett land och göra papper i ett annat...
-att få ett andra pass över tiden.
+Det är en ytterligare komplikation att arbeta i ett land och ordna papper i ett annat för
+att få det andra passet med tiden.
 
-Jag väntar på ytterligare två erbjudanden från Kina.
+Jag väntar på två erbjudanden från Kina till.
 
-Eftersom jag är inom IT-branschen tror jag att distans mellan
-Sverige och Serbien är inte ett stort problem för kommunikation.
-Produktionselementen tillverkar ni är inte så komplicerad, jag arbetade 
+Eftersom jag arbetar inom IT-branschen sedan en tid nu tror jag att distansen mellan
+Sverige och Serbien inte är något problem för kommunikation.
+Produktionselementen ni tillverkar är inte så komplicerade, jag arbetade 
 med mycket mer komplicerade delar tillverkade på CNC-maskiner (3D modeller 
 med större precision). 
-Med höghastighetsinternet tror jag att vi inte kommer att ha några kommunikationsproblem.
-Också, Serbien och Sverige ligger i samma tidszon.
+Med höghastighetsinternet tror jag att vi inte kommer att ha några kommunikationsproblem
+och Serbien och Sverige ligger i samma tidszon.
 Efter några månaders kontorsarbete i Belgrad tror jag att vi kommer att vänja oss 
-vid det och höja den interna kommunikationen till högsta nivå.
-Jag tror att jag kan inte följa de svenska byggtrenderna från Serbien tillräckligt bra, 
-liksom mina gamla byggkontakter i Stockholm.
-Att träffa nya kunder, att öppna nya affärsmöjligheter är det omöjligt att rapportera från Serbien.
-Intensiv marknadsföring på sociala medier är bra, men jag tror att direktkontakt 
-på byggarbetsplatsen är bättre.
+vid det och höja den interna kommunikationen till högsta nivån.
+Viber, Skype, Slack, Zoom med höghastighetsinternet fungerar perfekt i Serbien och Sverige,
+så jag tror att avståndet inte skulle påverka vår verksamhet. Det finns också programvara som
+övervakar och kontrollerar datorernas funktion när man utför fjärrarbete.
+Jag tror att jag varken inte följa de svenska byggtrenderna från Serbien tillräckligt bra, 
+eller mina gamla byggkontakter i Stockholm. Plus, det är omöjligt
+att träffa nya kunder samt att skapa nya affärsmöjligheter från Serbien.
+Intensiv marknadsföring på sociala medier är bra, men jag tror ändå att direktkontakt 
+på den svenska, norska och tyska byggarbetsplatsen är mycket bättre för affärsrelationer.
 
 I alla fall kommer vi att göra som du tycker är det smartaste sättet att göra affärer.
 
 ____________________________________________________________
 
-Mitt erbjudande till dig består av tre delar :
+Mitt erbjudande till dig består av tre delar (med rekommendationer):
 
-1.) Lön (Jag tycker att startlönen ska vara 1200 e)
-	Nu tjänar jag som frontend webbutvecklare runt (900e).
+1.) Lön (Jag tycker att startlönen ska vara 1200 euro)
+
+	Jag anställer tjejer hos mina kinesiska vänner i Belgrad som har kinesiska byråer, lingvister utan 
+	erfarenhet, för startlöner på 800-1000 euro. Jag kan anställa ett obegränsat antal lingvister med 
+	kunskap i kinesiska, på stora byggföretag för brobyggnad, motorvägar, möbelkontor, så att vi 
+	skulle kunna samarbeta med dem, för jag har goda relationer med dem. Det är möjligt att det 
+	finns några halvfabrikat som de behöver och produktion med transport från Kina är dyrare än 
+	ditt erbjudande, där de inte skulla ha höga transportkostnader, samt den långa väntan på att de 
+	ska komma från Asien. Priset på arbetskraft i Kina har stigit de senaste åren, så jag tror att 
+	priset på arbetstimmen har blivit utjämnat med priset på arbetstimme i Serbien.
+	Min nuvarande affärssituation (på grund av blockaden av flyg till Asien och problem med 
+	pappersarbete, vacciner och karantäner):
+
+	Just nu tjänar jag som frontend webbutvecklare runt (900euro).
 	Distansarbete, inga resekostnader. Jag bor mitt i stan.
-
-	Resekostnader med bilen ska bli runt 200e,
-	plus månatliga utgifter för språkskolan (runt 100e)
-
-	Om du har ett alternativ, jag är öppen för alla arrangemang...
+	Jag tror att mina bränslekostnader och avskrivning på bilen från stadscentrum till dig skulle
+	vara cirka 200 euro i månaden, plus månatliga utgifter för språkskolan, cirka 100 euro. Därför 
+	anser jag att 1200 euro blir en okej lön. Om du har någon alternativ lösning är jag öppen för alla 
+	arrangemang / fjärrarbeten eller något tredje - om du vill betala för språkskolan 
+	som du väljer, via ett konto... Jag står till dit förfogande för alla slags arrangemang.
 
 2.) Mitt andra medborgarskap / pass
+
+	Oavsett dina behov, om du behöver mig i Serbien eller i Sverige vid en given tidpunkt. Så snart 
+	som möjligt skulle jag vilja börja med processen att få arbetstillstånd. Perioden på fem år är 
+	väldigt lång och jag skulle inte vilja slösa bort tid, så jag förväntar mig att om mindre än sex 
+	månader sedan jag har börjat arbeta för dig, kommer vi in i proceduren (om du blir nöjd med 
+	mitt arbete, självklart). Oavsett om mitt systerföretag kommer att anställa mig i Örebro eller om 
+	jag startar mitt eget företag AB (så att jag kommer att hyra ut mina tjänster till ditt företag i 
+	Örebro), är allt det en fråga om avtal och vad som rekommenderas av företagsadvokaten och 
+	redovisningskonsulten. Så jag kommer att få en uppehållsregistrering i Sverige och ett 
+	arbetstillstånd så snart som möjligt. Det blir också ett stort plus för dig att knyta mig till 
+	företaget på lång sikt. Proceduren är väldigt enkel, allt är förklarat på Arbetsformedlingen och 
+	på webbplatsen Euress.eu (för det andra alternativet, om jag skulle starta ett förening, måste jag 
+	rådfråga advokaterna mer).
+
+3.) Valfritt / min direktförsäljning
+
+	Ivan nämnde inte alls mitt engagemang som tredje part i direktförsäljning av SvePro-produkter 
+	på den serbiska / nordiska, tyska, österrikiska marknaden.
+	Jag skulle gärna vilja att du säger vad du tycker om det så snart som möjligt, eftersom det kan 
+	vara en ömsesidig fördel och ytterligare motivation och vinst både för dig och mig.
+	Jag tycker att det är en mycketviktig sak. Ivan hade kanske inte det som en långsiktig vision 
+	särskilt eftersom jag kommer att bli den andra personen, omedelbart efter dig, som kommer att 
+	vara i direktkontakt med kunder och förvärvande företag / installatörer. Jag skulle också vilja 
+	utnyttja några av mina gamla och nya kontakter som kanske kunde öka vår verksamhet. Kan du 
+	tänka på det, är du snäll.
+
+Andra rekommendationer: en arbetsmobiltelefon för kommersiella behov som gäller företaget, 
+	två tangentbord med svenska bokstäver - ett på kontoret, det andra för arbetet hemifrån eller 
+	om en nödsituation inträffar, eller om jag behöver göra om något hemifrån eller göra det i 
+	dokumentation eller i e-postbreven. Tangentbort med svenska bokstäver kan inte köpas på 
+	vår marknad, men jag antar att någon kan köpa de i Sverige på MediaMarket eller Ikea och 
+	skicka dem via posten.
+
+Skulle du kunna fundera om mitt erbjudande flera dagar?
+
+Tack för din tid och jag önskar dig en trevlig och framgångsrik dag.
+
+Med vänliga hälsningar,
+Alexander
+
 	
